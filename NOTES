@@ -1,0 +1,12 @@
+parse file not handled
+Render plane;DONE
+Render infinite cylinder;DONE
+cut cylinders;DONE
+Ambient light (Normal vector // Phong lighting Model)
+Light;DONE
+Shadows;DONE
+
+Bonus : 
+Multiple light
+UV_Mapping
+Cone

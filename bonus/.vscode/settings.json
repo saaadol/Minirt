@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "chrono": "c",
+        "limits": "c",
+        "ratio": "c",
+        "array": "c",
+        "iterator": "c",
+        "string": "c",
+        "string_view": "c",
+        "vector": "c",
+        "__locale": "c",
+        "ios": "c"
+    }
+}
